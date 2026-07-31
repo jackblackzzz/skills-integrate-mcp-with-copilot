@@ -1,0 +1,14 @@
+[
+  {
+    "email": "admin@mergington.edu",
+    "name": "Ms. Rivera",
+    "role": "admin",
+    "password": "adminpass"
+  },
+  {
+    "email": "student@mergington.edu",
+    "name": "Alex Student",
+    "role": "student",
+    "password": "studentpass"
+  }
+]
